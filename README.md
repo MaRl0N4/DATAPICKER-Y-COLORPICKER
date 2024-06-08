@@ -20,4 +20,4 @@ El proyecto se estructura principalmente en un archivo Java que contiene la lóg
 - `DatePickerColorPickerApp.java`: Este es el archivo principal que contiene la implementación de la interfaz gráfica y la lógica del proyecto.
 
 ## CAPTURA DE LA EJECUCIÓN DE LA APP
-
+![EJCUCIÓN APP]()
